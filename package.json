@@ -54,8 +54,8 @@
       "last 1 safari version"
     ]
   },
-  "description": "Personal website",
+  "description": "Hackathon L2 Polygon",
   "main": "index.js",
-  "author": "Tech-bottle <usefulvloging@gmail.com>",
+  "author": "BrutKode <usefulvloging@gmail.com>",
   "license": "MIT"
 }
