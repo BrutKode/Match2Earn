@@ -8,3 +8,27 @@ This is a simple memory game where you have to match two food items to win a pai
 
 ![Logo](https://pbs.twimg.com/profile_images/1511647209812504579/G6Lxi00P_400x400.jpg)
 
+# Get Started
+Clone This repository by `git clone`
+```bash
+  git clone https://github.com/BrutKode/Match2Earn.git
+```
+cd into the directory
+```bash
+  cd Match2Earn
+```
+Install code dependencies
+```bash
+  npm i
+``` 
+Or if you use yarn then
+```bash
+  yarn
+``` 
+Finally Run the react app by `npm`
+```bash
+  npm run start
+``` 
+# Demonstration
+The demo of this project is available on my personal website:
+[BrutKode](https://brutkode.eth.link/)
