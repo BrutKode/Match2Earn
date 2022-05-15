@@ -1,0 +1,23 @@
+/* Styles go here */
+
+.token {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.grid {
+  width: 60%;
+  height: 60%;
+}
+
+.collected {
+  padding: 5px;
+  margin: 5px;
+}
+
+
+@media (max-width : 320px) {
+  .grid {width:100%; height:100%;}
+}
